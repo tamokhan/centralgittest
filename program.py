@@ -1,1 +1,1 @@
-print("My Program ... Tamo.")
+print("This is my 2nd chang")
